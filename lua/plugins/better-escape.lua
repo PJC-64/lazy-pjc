@@ -4,7 +4,7 @@ return {
     config = function()
       local be = require("better_escape")
       be.setup({
-        mapping = { "jk", "jj" },
+        mapping = { "jk", "jj", "kj" },
         clear_empty_lines = false,
         keys = "<Esc>",
       })
