@@ -1,3 +1,3 @@
-return {
+eturn {
   { "echasnovski/mini.hues", version = false },
 }
