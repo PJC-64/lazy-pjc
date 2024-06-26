@@ -2,6 +2,10 @@
 
 This documents my current personal NeoVim configurations. It's based on lazyvim.
 
+## Extras
+
+Lazyvim extras that I have selected to load.
+
 ## Plugins
 
 These are my current additional plugins beyond those loaded by lazyvim by default, or added via lazyvim extras.
