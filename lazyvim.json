@@ -49,7 +49,8 @@
     "lazyvim.plugins.extras.util.startuptime"
   ],
   "news": {
-    "NEWS.md": "6077"
+    "NEWS.md": "6077",
+    "doc/news.txt": "5244"
   },
   "version": 6
 }

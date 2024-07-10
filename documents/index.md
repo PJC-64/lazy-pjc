@@ -2,6 +2,8 @@
 
 This documents my current personal NeoVim configurations. It's based on lazyvim.
 
+Note: NeoVim uses "\\" as the default leader key, while lazyvim uses " ", which I prefer!
+
 ## Extras
 
 Lazyvim extras that I have selected to load.
